@@ -1002,4 +1002,48 @@ Text GLabel 3350 9700 2    50   Input ~ 0
 COL5
 Text GLabel 3350 9800 2    50   Input ~ 0
 ROW2
+$Comp
+L Mechanical:MountingHole H1
+U 1 1 5F0A61CC
+P 5900 7900
+F 0 "H1" H 6000 7946 50  0000 L CNN
+F 1 "MountingHole" H 6000 7855 50  0000 L CNN
+F 2 "random-keyboard-parts:Generic-Mounthole" H 5900 7900 50  0001 C CNN
+F 3 "~" H 5900 7900 50  0001 C CNN
+	1    5900 7900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H2
+U 1 1 5F0A65F2
+P 5900 8150
+F 0 "H2" H 6000 8196 50  0000 L CNN
+F 1 "MountingHole" H 6000 8105 50  0000 L CNN
+F 2 "random-keyboard-parts:Generic-Mounthole" H 5900 8150 50  0001 C CNN
+F 3 "~" H 5900 8150 50  0001 C CNN
+	1    5900 8150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H3
+U 1 1 5F0A6A00
+P 5900 8400
+F 0 "H3" H 6000 8446 50  0000 L CNN
+F 1 "MountingHole" H 6000 8355 50  0000 L CNN
+F 2 "random-keyboard-parts:Generic-Mounthole" H 5900 8400 50  0001 C CNN
+F 3 "~" H 5900 8400 50  0001 C CNN
+	1    5900 8400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H4
+U 1 1 5F0A6CB7
+P 5900 8650
+F 0 "H4" H 6000 8696 50  0000 L CNN
+F 1 "MountingHole" H 6000 8605 50  0000 L CNN
+F 2 "random-keyboard-parts:Generic-Mounthole" H 5900 8650 50  0001 C CNN
+F 3 "~" H 5900 8650 50  0001 C CNN
+	1    5900 8650
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
