@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:KB-Prototype-cache
 EELAYER 29 0
 EELAYER END
 $Descr A3 16535 11693
@@ -973,14 +974,32 @@ F 3 "" H 7700 9700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:+5V #PWR?
+L power:+5V #PWR0119
 U 1 1 5F1F959F
 P 4100 9900
-F 0 "#PWR?" H 4100 9750 50  0001 C CNN
+F 0 "#PWR0119" H 4100 9750 50  0001 C CNN
 F 1 "+5V" H 4115 10073 50  0000 C CNN
 F 2 "" H 4100 9900 50  0001 C CNN
 F 3 "" H 4100 9900 50  0001 C CNN
 	1    4100 9900
 	1    0    0    -1  
 $EndComp
+Text GLabel 3350 7300 2    50   Input ~ 0
+ROW0
+Text GLabel 3350 7200 2    50   Input ~ 0
+ROW1
+Text GLabel 3350 7100 2    50   Input ~ 0
+COL0
+Text GLabel 3350 7000 2    50   Input ~ 0
+COL1
+Text GLabel 3350 9400 2    50   Input ~ 0
+COL2
+Text GLabel 3350 9500 2    50   Input ~ 0
+COL3
+Text GLabel 3350 9600 2    50   Input ~ 0
+COL4
+Text GLabel 3350 9700 2    50   Input ~ 0
+COL5
+Text GLabel 3350 9800 2    50   Input ~ 0
+ROW2
 $EndSCHEMATC
